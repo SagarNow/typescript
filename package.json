@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/1.basic.ts",
+    "build": "tsc"
+  }
+}
